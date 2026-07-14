@@ -22,7 +22,7 @@ I enjoy building reliable infrastructure, networking solutions and AI-powered ap
 Windows Server • Linux • VMware • Hyper-V • Proxmox
 
 ### Networking
-Cisco • Fortinet • pfSense • VLAN • DNS • Routing
+Cisco • Fortinet • pfSense • OPNSense
 
 ### Cloud
 Azure • Cloudflare
